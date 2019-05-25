@@ -1,0 +1,15 @@
+{
+  "name": "nodejs-mangodb-tuto",
+  "version": "0.0.1",
+  "description": "NodeJS, MangoDB tuto",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "NodeJS",
+    "MangoDB"
+  ],
+  "author": "Atef Ben Ali <atef.bettaib@gmail.com>",
+  "license": "ISC"
+}
