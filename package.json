@@ -11,5 +11,10 @@
     "MongoDB"
   ],
   "author": "Atef Ben Ali <atef.bettaib@gmail.com>",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^3.5.0",
+    "mongoose": "^4.11.9",
+    "nodemon": "^1.11.0"
+  }
 }
